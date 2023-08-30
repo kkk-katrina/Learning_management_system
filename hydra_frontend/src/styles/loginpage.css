@@ -1,0 +1,16 @@
+.loginpage {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.logincard {
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    max-width: 400px;
+    max-height: 560px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+}

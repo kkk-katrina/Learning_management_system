@@ -1,0 +1,50 @@
+.EditForum-Content {
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    width: 80%;
+    height: 100%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.Edit-Title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.Edit-Content {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Edit-File {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    align-items: center;
+}
+
+.upload-list-inline .ant-upload-list-item {
+    float: left;
+    width: 200px;
+    margin-inline-end: 8px;
+}
+  
+.ant-upload-rtl.upload-list-inline .ant-upload-list-item {
+    float: right;
+}
+
+.Edit-Button {
+    margin-top: 40px;
+    font-size: 16px;
+    align-items: center;
+}

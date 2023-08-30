@@ -1,0 +1,50 @@
+.CreateForum-Content {
+    margin-left: 10%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    width: 80%;
+    height: 100%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.Create-Title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.Create-Content {
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+}
+
+.Create-File {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    align-items: center;
+}
+
+.upload-list-inline .ant-upload-list-item {
+    float: left;
+    width: 200px;
+    margin-inline-end: 8px;
+}
+  
+.ant-upload-rtl.upload-list-inline .ant-upload-list-item {
+    float: right;
+}
+
+.Create-Button {
+    margin-top: 40px;
+    font-size: 16px;
+    align-items: center;
+}

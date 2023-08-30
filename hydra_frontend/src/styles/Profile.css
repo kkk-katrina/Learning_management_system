@@ -1,0 +1,21 @@
+.site-layout {
+    height: 100vh;
+}
+
+.footer {
+    text-align: center;
+}
+
+#ProfileDetail-Content {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 100%;
+}
+
+#ProfileDetail-Button {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 25px;
+}

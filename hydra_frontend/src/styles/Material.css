@@ -1,0 +1,29 @@
+.Material-Content {
+    width: 100%;
+    height: 100vh;
+    padding: 20px;
+}
+
+.Material-Filter {
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 5%;
+}
+
+.Material-List {
+    border-radius: 10px;
+    margin-top: 30px;
+    width: 94%;
+    margin-left: 3%;
+}
+
+.Upload-Content {
+    margin-left: 5%;
+    width: 90%;
+    height: 90%;
+    padding: 20px;
+}
+
+.Upload-Type {
+    margin-bottom: 5%;
+}

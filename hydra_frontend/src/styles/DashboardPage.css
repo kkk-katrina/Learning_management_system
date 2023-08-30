@@ -1,0 +1,47 @@
+.site-layout {
+    height: 100vh;
+}
+
+.content {
+    min-height: calc(100vh - 64px);
+    margin: 24px 16px 0;
+    overflow: scroll;
+}
+
+.footer {
+    height: 64px;
+    text-align: center;
+}
+
+.topper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.divider {
+    border: 1px solid transparent;
+    border-image: linear-gradient(to right, #f00, #ff0, #0f0, #0ff, #00f, #f0f, #f00) 1;
+
+}
+
+.cardBox {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.courseCard {
+    width: 240px;
+    margin: 20px 0 0 20px;
+    white-space: normal;
+}
+
+.meta {
+    white-space: normal;
+}
+
+.avatar {
+    size: 40;
+    cursor: pointer;
+}

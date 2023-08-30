@@ -1,0 +1,19 @@
+#EditProfile-Content{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    margin-top: 40px;
+}
+
+#EditProfile-Submit{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-left: -60px;
+}
+
+#EditProfile-Cancel{
+    margin-left: 100px;
+    width: 100px;
+}

@@ -1,0 +1,27 @@
+.ForumDetail-Total {
+    position: absolute;
+    background-color: #f5f5f5;
+    flex: 1;
+}
+
+.ForumDetail-Post {
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 20px;
+    width: 80%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 30px 30px 15px 30px;
+}
+
+.ForumDetail-Reply {
+    margin-left: 10%;
+    margin-bottom: 20px;
+    width: 80%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 25px;
+    justify-content: center;
+    align-items: flex-end;
+    display: flex;
+}
