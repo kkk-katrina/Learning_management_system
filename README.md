@@ -26,6 +26,3 @@ npm start
 
 Note: the frontend may ask you to install dependencies.
 
-Aliyun Cloud: <br>
-Username: randomzsh <br>
-PWD: Zshh0724 <br>
